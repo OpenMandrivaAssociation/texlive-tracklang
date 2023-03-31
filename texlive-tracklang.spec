@@ -1,6 +1,6 @@
 Name:		texlive-tracklang
 Version:	64863
-Release:	1
+Release:	2
 Summary:	Language and dialect tracker
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tracklang
